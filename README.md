@@ -42,6 +42,8 @@ git clone https://github.com/Harshal141/HacktoberFest2022-1.git
 
 Now open `index.html` file in a text editor, add [the snippet](#enter-your-profile) to it. Don't add it at the beginning or end of the file. Put it anywhere in between. Now, save the file.
 
+> note : Dont generate pull request with just putting profile in `index.html`
+
 If you go to the project directory and execute the command `git status`, you'll see there are changes.
 
 Add those changes to the branch you just created using the `git add` command:
@@ -71,7 +73,7 @@ git commit -m "Add <your-name> to Contributors list"
 <br />
 
 ## Enter your profile 
-> Use following code to create new profile
+> Use following code to create new profile while adding your main contribution
 ```html
 <div class="col-md-6 col-lg-3 ">
     <div class="img-block mb-5">
