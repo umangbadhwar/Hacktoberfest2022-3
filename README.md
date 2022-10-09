@@ -35,7 +35,7 @@ git clone "url you just copied"
 ```
 > Example
 ```
-git clone https://github.com/Harshal141/HacktoberFest2022.git
+git clone https://github.com/Harshal141/HacktoberFest2022-1.git
 ```
 
 ## Make necessary changes and commit those changes
