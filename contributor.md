@@ -40,13 +40,15 @@ git clone https://github.com/Harshal141/HacktoberFest2022-1.git
 
 ## Make necessary changes and commit those changes
 
+> :warning: **Do not upload copied or simple codes**: Be very careful here!
+
 Submit your frontend code in `/public/code/<Your_filename>`
 
 Visit `/public/js/data.js` and enter your name and project folder name
 
 ```js
 const data = {
-    "Your Name" : "<Your_filename>",
+    "Your_Name <Tags eg:Navbar>" : "<Your_filename>",
     "Harshal141 " : "hp"
 }
 ```
@@ -58,7 +60,7 @@ If you go to the project directory and execute the command `git status`, you'll 
 Add those changes to the branch you just created using the `git add` command:
 
 ```
-git add index.html
+git add .
 ```
 
 Now commit those changes using the `git commit` command:
