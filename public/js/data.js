@@ -1,4 +1,5 @@
 const data = {
     "John Doe": "john_doe",
-    "newname" : "hp"
+    "Sujeet-landingPage": "flameRunner",
+    "newname": "hp"
 }
